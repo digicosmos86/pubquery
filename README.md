@@ -61,7 +61,7 @@ Please note that the frontend points to http://localhost:8080/ for data, so plea
 
 The structure of data in this project, though simple, is a classic many-to-many relationship, so the structure (shown below) of the tables reflects this relationship. Specifically, the `articles` and `authors` tables store articles and author information separately, and the `articlesauthors` table stores information on the authors for each article. Authorship (first author, second author) etc. is important in publications, so the `articlesauthors` table has one column `authorplace` to record that information.
 
-![ER Diagram](https://raw.githubusercontent.com/digicosmos86/pubquery/master/relationship%20%diagram.png)
+![ER Diagram](https://github.com/digicosmos86/pubquery/blob/master/relationship%20diagram.png?raw=true)
 
 ##### 2. Backend
 
