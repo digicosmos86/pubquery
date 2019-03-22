@@ -1,4 +1,4 @@
 org\digicosmos\pubquery\ArticleRepository.class
-org\digicosmos\pubquery\Article.class
 org\digicosmos\pubquery\Article$Mapper.class
+org\digicosmos\pubquery\Article.class
 org\digicosmos\pubquery\App.class

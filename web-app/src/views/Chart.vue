@@ -61,7 +61,6 @@ export default {
           vm.ds = datacollection;
         }).catch((err) => 
           {
-            this.articles = [];
             console.log(err)
           }
         ).then(vm.loaded = true);
